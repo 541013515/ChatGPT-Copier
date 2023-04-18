@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "ChatGPT Copier",
+    "description": "This extension adds a button to copy text in ChatGPT on chat.openai.com",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+        {
+            "matches": ["https://chat.openai.com/*"],
+            "js": ["content.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "ChatGPT Copier"
+    }
+}
