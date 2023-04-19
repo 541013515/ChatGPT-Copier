@@ -1,16 +1,16 @@
-# ChatGPT_copier
+# ChatGPT Copier
 
 [中文版本](#chinese) | [English Version](#english)
 
 ## 中文
 
-ChatGPT_copier 是一个用于 Chrome 浏览器的插件，可以帮助您完成一些有用的任务。以下是一些它可以完成的工作：
+ChatGPT Copier 是一个用于 Chrome 浏览器的插件，可以帮助您完成一些有用的任务。以下是一些它可以完成的工作：
 
 - 可以复制每一条 ChatGPT 的回复。
 
 ### 安装
 
-要安装 ChatGPT_copier：
+要安装 ChatGPT Copier：
 
 1. 将此存储库克隆到您的本地计算机。
 2. 打开 Google Chrome 并转到 `chrome://extensions/`。
@@ -24,13 +24,13 @@ ChatGPT_copier 是一个用于 Chrome 浏览器的插件，可以帮助您完成
 
 ## English
 
-ChatGPT_copier is a browser extension for Chrome that allows you to do something useful. Here are some of the things it can do:
+ChatGPT Copier is a browser extension for Chrome that allows you to do something useful. Here are some of the things it can do:
 
 - It can copy every ChatGPT reply.
 
 ### Installation
 
-To install ChatGPT_copier:
+To install ChatGPT Copier:
 
 1. Clone this repository to your local machine.
 2. Open Google Chrome and go to `chrome://extensions/`.
